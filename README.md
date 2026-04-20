@@ -1,6 +1,6 @@
 # ProgramAI - Local Coding Assistant
 
-## Setup
+## Linux Setup
 
 ```bash
 python3 -m venv llm-agent-env
@@ -16,10 +16,25 @@ ollama run deepseek-coder
 ./run.sh
 ```
 
-Then:
+### DO NOT UPLOAD:
+- llm-agent-env
+- __pycache__
+### MUST UPLOAD:
+- requirements.txt
+- run.sh
+- source code
 
-```bash
-git add README.md
-git commit -m "Added README"
-git push
+## Windows Setup
 ```
+git clone https://github.com/your-username/ProgramAI.git
+cd ProgramAI
+python -m venv llm-agent-env
+llm-agent-env\Scripts\activate
+pip install -r requirements.txt
+```
+Install Ollama from https://ollama.com
+Then run once:
+```
+ollama run deepseek-coder
+```
+Run the app using using run.bat because run.sh is for Linux systems only!
