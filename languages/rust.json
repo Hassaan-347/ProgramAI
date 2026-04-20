@@ -1,0 +1,13 @@
+{
+  "name": "Rust",
+  "rules": [
+    "Ownership and borrowing rules apply",
+    "Avoid null values",
+    "Use snake_case for variables"
+  ],
+  "snippets": [
+    "fn main() {}",
+    "println!(\"Hello\");",
+    "let x = 5;"
+  ]
+}

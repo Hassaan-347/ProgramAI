@@ -1,0 +1,13 @@
+{
+  "name": "Bash",
+  "rules": [
+    "Scripts start with #!/bin/bash",
+    "Use $ for variables",
+    "Be careful with permissions"
+  ],
+  "snippets": [
+    "#!/bin/bash",
+    "echo \"Hello\"",
+    "for i in *; do echo $i; done"
+  ]
+}

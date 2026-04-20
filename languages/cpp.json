@@ -1,0 +1,13 @@
+{
+  "name": "C++",
+  "rules": [
+    "Use semicolons at end of statements",
+    "Use proper memory management",
+    "Prefer modern C++ (C++11 and above)"
+  ],
+  "snippets": [
+    "#include <iostream>",
+    "int main() { return 0; }",
+    "std::cout << \"Hello\";"
+  ]
+}

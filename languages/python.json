@@ -1,0 +1,13 @@
+{
+  "name": "Python",
+  "rules": [
+    "Use indentation for blocks",
+    "Follow PEP8 style",
+    "Use snake_case for variables"
+  ],
+  "snippets": [
+    "for i in range(n):",
+    "def function_name(args):",
+    "if __name__ == '__main__':"
+  ]
+}

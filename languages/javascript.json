@@ -1,0 +1,13 @@
+{
+  "name": "JavaScript",
+  "rules": [
+    "Use semicolons consistently",
+    "Prefer const and let over var",
+    "Use camelCase for variables"
+  ],
+  "snippets": [
+    "function myFunction() {}",
+    "console.log('Hello');",
+    "for (let i = 0; i < n; i++) {}"
+  ]
+}

@@ -1,0 +1,5 @@
+llm-agent-env/
+__pycache__/
+*.pyc
+AppDir/
+*.AppImage

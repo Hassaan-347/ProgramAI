@@ -1,0 +1,13 @@
+{
+  "name": "Go",
+  "rules": [
+    "Use gofmt formatting",
+    "Avoid unnecessary abstractions",
+    "Use goroutines for concurrency"
+  ],
+  "snippets": [
+    "package main",
+    "func main() {}",
+    "fmt.Println(\"Hello\")"
+  ]
+}

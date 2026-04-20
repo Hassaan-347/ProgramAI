@@ -1,0 +1,13 @@
+{
+  "name": "C",
+  "rules": [
+    "Use manual memory management",
+    "End statements with semicolons",
+    "Use pointers carefully"
+  ],
+  "snippets": [
+    "#include <stdio.h>",
+    "int main() { return 0; }",
+    "printf(\"Hello\\n\");"
+  ]
+}
